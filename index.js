@@ -1,1 +1,1 @@
-const OWNER = "255724432170@s.whatsapp.net";
+const OWNER = "255613424187@s.whatsapp.net";
